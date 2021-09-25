@@ -1,6 +1,6 @@
 # Global Explainability of BERT-Based Metrics by Disentangling along Linguistic Factors
 
-Code and data for our EMNLP 2021 paper
+Code and data for our EMNLP 2021 paper.
 
 # Dependencies
 ## For calculating scores:
@@ -175,6 +175,8 @@ Set `--avg True` when running `ensembling_evaluate.py`. The scores of each metri
 * /data/scored contains the output files with all calculated scores (as output by score.py) seperated by WMT and STS and named including either 'mono' to indicate English-English sentence pairs or 'cross_\*' to indicate cross-lingual sentence pairs as well as the specific non-English language.
 * /data/translated contains the translations which are needed for the cross-lingual lexical overlap scores
 
+
+### Citation
 
 ```
 @inproceedings{kaster-et-al-2021-global,
