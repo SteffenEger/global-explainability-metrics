@@ -1,6 +1,6 @@
 # Global Explainability of BERT-Based Metrics by Disentangling along Linguistic Factors
 
-Code and data for our EMNLP 2021 paper. We represent metrics as linear combinations of linguistic factors, thus contribute to their global explainability.
+Code and data for our [EMNLP 2021](https://arxiv.org/abs/2110.04399) paper. We represent metrics as linear combinations of linguistic factors, thus contribute to their global explainability.
 
 # Dependencies
 ## For calculating scores:
